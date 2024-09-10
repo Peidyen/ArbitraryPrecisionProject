@@ -3,7 +3,7 @@
 I built a simulation of the solar system and animated it in Plotly. 
 then I built it in CSharp and animated it in OxyScope
 
-Next i built a galaxy simulation in csharp and animated it with OxyScope.
+Next i built a galaxy simulation in csharp and animated it with OxyPlot.
 
 Then , i ported the simulation to Unity, and couldn't find my stars.
 After much rummaging around and wondering why the locations were off , it occurred to me that Unity uses 32 digit floating point arithmetic, which is fine for day-to-day use, but, when we are streching our 100s of parsecs, it seems that it fall short.
