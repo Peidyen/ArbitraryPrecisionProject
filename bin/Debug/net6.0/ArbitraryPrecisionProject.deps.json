@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArbitraryPrecisionProject/1.0.0": {
+        "dependencies": {
+          "ExtendedNumerics.BigDecimal": "2025.1004.0.247"
+        },
+        "runtime": {
+          "ArbitraryPrecisionProject.dll": {}
+        }
+      },
+      "ExtendedNumerics.BigDecimal/2025.1004.0.247": {
+        "runtime": {
+          "lib/net6.0/ExtendedNumerics.BigDecimal.dll": {
+            "assemblyVersion": "2025.1004.0.247",
+            "fileVersion": "2025.1004.0.247"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArbitraryPrecisionProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtendedNumerics.BigDecimal/2025.1004.0.247": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Bbf9wq62Nvhrj/qVA4msTGZAb7UPORLvOEqwrr8i7proWlfQBnvpUtXa5H+EAwmdIsUqadiQIREzgt0AD87ZJQ==",
+      "path": "extendednumerics.bigdecimal/2025.1004.0.247",
+      "hashPath": "extendednumerics.bigdecimal.2025.1004.0.247.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+E:\Source\Mathematics\ArbitraryPrecisionProject\bin\Debug\net6.0\ArbitraryPrecisionProject.exe
+E:\Source\Mathematics\ArbitraryPrecisionProject\bin\Debug\net6.0\ArbitraryPrecisionProject.deps.json
+E:\Source\Mathematics\ArbitraryPrecisionProject\bin\Debug\net6.0\ArbitraryPrecisionProject.runtimeconfig.json
+E:\Source\Mathematics\ArbitraryPrecisionProject\bin\Debug\net6.0\ArbitraryPrecisionProject.dll
+E:\Source\Mathematics\ArbitraryPrecisionProject\bin\Debug\net6.0\ArbitraryPrecisionProject.pdb
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.csproj.AssemblyReference.cache
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.AssemblyInfoInputs.cache
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.AssemblyInfo.cs
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.csproj.CoreCompileInputs.cache
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.dll
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\refint\ArbitraryPrecisionProject.dll
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.pdb
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.genruntimeconfig.cache
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ref\ArbitraryPrecisionProject.dll
+E:\Source\Mathematics\ArbitraryPrecisionProject\bin\Debug\net6.0\ExtendedNumerics.BigDecimal.dll
+E:\Source\Mathematics\ArbitraryPrecisionProject\obj\Debug\net6.0\ArbitraryPrecisionProject.csproj.CopyComplete
